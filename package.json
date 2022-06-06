@@ -1,0 +1,16 @@
+{
+  "name": "basico-04",
+  "version": "0.0.1",
+  "description": "App para obtener la tabla de multiplicar que se solicita con un parametro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base2": "node app --base=2"
+  },
+  "author": "Cristian Aguilar",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
